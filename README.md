@@ -21,3 +21,4 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+![ViewCount](https://views.whatilearened.today/views/github/syx777/syx777.svg?cache=remove)
