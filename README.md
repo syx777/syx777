@@ -21,4 +21,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true)
+
 ![ViewCount](https://views.whatilearened.today/views/github/syx777/syx777.svg?cache=remove)
