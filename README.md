@@ -24,7 +24,7 @@ Python        1 hr 46 mins    █████▓░░░░░░░░░░�
 C++           57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
 Vue.js        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 ```
-
+![WakaTime](https://wakatime.com/badge/user/{syx777}.svg)
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true)
