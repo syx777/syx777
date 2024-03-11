@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-246-blue)
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
 💬 Programming Languages: 
 Python                   2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
 CMake                    2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
@@ -31,7 +33,7 @@ Vue.js                   29 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/03/2024 00:54:57 UTC
+ Last Updated on 11/03/2024 01:01:42 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true)
