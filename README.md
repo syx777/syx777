@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-CMake         2 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   29.60 %
-Markdown      1 hr 47 mins    ██████░░░░░░░░░░░░░░░░░░░   23.35 %
-Python        1 hr 46 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
-C++           57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-Vue.js        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Python        2 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.77 %
+CMake         2 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
+Markdown      1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+C++           57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Vue.js        29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
 ```
-[![wakatime](https://wakatime.com/badge/user/018e023a-953c-46d8-9972-999aa5d6d1e5.svg)](https://wakatime.com/@018e023a-953c-46d8-9972-999aa5d6d1e5)
+
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true)
