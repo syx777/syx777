@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-246-blue)
 
-📊 **This Week I Spent My Time On** 
-
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
@@ -39,4 +37,3 @@ Vue.js                   29 mins             █░░░░░░░░░░�
 
 ![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true)
 
-![ViewCount](https://views.whatilearened.today/views/github/syx777/syx777.svg?cache=remove)
