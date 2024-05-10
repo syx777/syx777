@@ -34,4 +34,4 @@ JSON                     27 mins             █░░░░░░░░░░�
  Last Updated on 10/05/2024 02:26:00 UTC
 <!--END_SECTION:waka-->
 
-![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true)
+![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true&count_private=true)
