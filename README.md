@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
@@ -31,7 +31,7 @@ SQL                      21 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 16/05/2024 00:39:28 UTC
+ Last Updated on 17/05/2024 00:40:00 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true&count_private=true)
