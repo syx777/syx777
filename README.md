@@ -15,23 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 23 mins       ████████████████░░░░░░░░░   63.21 % 
-Vue.js                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-SQL                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Python                   11 hrs 10 mins      ███████████████░░░░░░░░░░   60.92 % 
+SQL                      1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Vue.js                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 ```
 
 
- Last Updated on 25/05/2024 00:39:03 UTC
+ Last Updated on 26/05/2024 00:43:36 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true&count_private=true&t=123457)
