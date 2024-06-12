@@ -34,4 +34,4 @@ Markdown                 1 hr 27 mins        ██░░░░░░░░░�
  Last Updated on 12/06/2024 00:41:51 UTC
 <!--END_SECTION:waka-->
 
-![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true&count_private=true&t=123426)
+![syx777's Github stats](https://github-readme-stats.vercel.app/api?username=syx777&show_icons=true&count_private=true)
