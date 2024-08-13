@@ -23,15 +23,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-SCSS                     9 mins              ██████████░░░░░░░░░░░░░░░   41.14 % 
-JavaScript               7 mins              █████████░░░░░░░░░░░░░░░░   34.26 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Vue.js                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/08/2024 00:45:50 UTC
+ Last Updated on 13/08/2024 00:44:59 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
