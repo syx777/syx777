@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   100.00 % 
+JSON                     13 mins             ████████████░░░░░░░░░░░░░   46.00 % 
+Python                   9 mins              ████████░░░░░░░░░░░░░░░░░   33.03 % 
+Text                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 
 
- Last Updated on 13/12/2024 00:56:30 UTC
+ Last Updated on 14/12/2024 00:54:04 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
