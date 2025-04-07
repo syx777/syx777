@@ -23,14 +23,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 31 mins             ███████████░░░░░░░░░░░░░░   43.47 % 
-Vue.js                   31 mins             ███████████░░░░░░░░░░░░░░   43.29 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 39 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2025 00:59:06 UTC
+ Last Updated on 07/04/2025 00:57:20 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
