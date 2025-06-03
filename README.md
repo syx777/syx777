@@ -17,20 +17,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2035%20mins-blue)
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   27 mins             ████████████░░░░░░░░░░░░░   49.38 % 
-JSON                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-SSH Config               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Public Key               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JSON                     13 mins             █████████████████████░░░░   82.11 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 ```
 
 
- Last Updated on 02/06/2025 01:02:21 UTC
+ Last Updated on 03/06/2025 08:51:51 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
