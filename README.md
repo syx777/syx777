@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-CSV                      12 mins             ██████████████████░░░░░░░   72.63 % 
-JSON                     4 mins              ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/10/2025 00:59:39 UTC
+ Last Updated on 31/10/2025 00:58:18 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
