@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 17 mins       █████████████████████████   99.78 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TeX                      2 hrs 17 mins       ████████████████████████░   94.91 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 
- Last Updated on 03/11/2025 01:01:03 UTC
+ Last Updated on 04/11/2025 00:58:16 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
