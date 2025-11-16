@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2047%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JSON                     16 mins             █████████████████████████   100.00 % 
+JSON                     17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/11/2025 00:58:13 UTC
+ Last Updated on 16/11/2025 01:03:24 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
