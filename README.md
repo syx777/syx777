@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-JSON                     1 hr 8 mins         █████████████████░░░░░░░░   67.82 % 
-SSH Config               32 mins             ████████░░░░░░░░░░░░░░░░░   32.18 % 
+JSON                     1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/12/2025 01:00:38 UTC
+ Last Updated on 04/12/2025 01:00:47 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
