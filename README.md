@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 53 mins             ████████████████████████░   95.18 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Markdown                 1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/01/2026 01:10:19 UTC
+ Last Updated on 02/01/2026 01:04:40 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
