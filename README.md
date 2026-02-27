@@ -15,18 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2019%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Bash                     5 mins              █████████████████████████   98.09 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Python                   59 mins             █████████░░░░░░░░░░░░░░░░   37.05 % 
+Bash                     55 mins             █████████░░░░░░░░░░░░░░░░   34.86 % 
+JSON                     41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 
- Last Updated on 26/02/2026 01:16:48 UTC
+ Last Updated on 27/02/2026 01:14:59 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
