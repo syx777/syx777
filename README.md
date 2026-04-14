@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 54 mins       █████████████░░░░░░░░░░░░   53.57 % 
-Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-YAML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-TeX                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Other                    5 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.71 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 ```
 
 
- Last Updated on 13/04/2026 01:52:48 UTC
+ Last Updated on 14/04/2026 01:48:50 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
