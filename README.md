@@ -15,19 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-TeX                      1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-TOML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Rust                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2022%20mins-blue?style=flat)
 
 
- Last Updated on 22/05/2026 02:33:55 UTC
+ Last Updated on 23/05/2026 02:10:31 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
