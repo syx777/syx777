@@ -15,8 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2036%20mins-blue?style=flat)
 
- Last Updated on 29/05/2026 02:28:53 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 13 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   41.64 % 
+Python                   13 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   39.27 % 
+Other                    2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+```
+
+
+ Last Updated on 30/05/2026 02:12:42 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
