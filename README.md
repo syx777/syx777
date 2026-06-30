@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.54 % 
-Bash                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Bash                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Markdown                 1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Other                    58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 ```
 
 
- Last Updated on 29/06/2026 02:39:24 UTC
+ Last Updated on 30/06/2026 02:33:52 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
