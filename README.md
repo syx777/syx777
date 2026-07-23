@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    21 mins             ██████████████░░░░░░░░░░░   56.44 % 
-Bash                     16 mins             ███████████░░░░░░░░░░░░░░   43.56 % 
+Bash                     15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/07/2026 01:49:51 UTC
+ Last Updated on 23/07/2026 01:57:10 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
