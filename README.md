@@ -21,11 +21,15 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.77 % 
+Text                     1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   31.28 % 
+Other                    59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
 
 
- Last Updated on 26/07/2026 01:56:21 UTC
+ Last Updated on 27/07/2026 02:03:52 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
