@@ -15,21 +15,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2030%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.77 % 
-Text                     1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   31.28 % 
-Other                    59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Markdown                 4 hrs 13 mins       ████████████░░░░░░░░░░░░░   49.75 % 
+Other                    2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 57 mins (93.72%)
+
+✍️ 3,144 lines written by AI, 4 lines written by hand (99.87% AI-written)
+
+🔤 68,074,006 Input Tokens, 566,003 Output Tokens
+
+💵 $278.55 Estimated AI Cost This Week
+
+🧠 27 AI Sessions, 78 AI Prompts
+
+GPT                      454 lines           ██████████████░░░░░░░░░░░   55.91 % 
+Composer                 358 lines           ███████████░░░░░░░░░░░░░░   44.09 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.87% of written lines came from AI
+📝 Concise Prompter — average 137 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 02:03:52 UTC
+ Last Updated on 29/07/2026 01:48:10 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
