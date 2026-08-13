@@ -15,25 +15,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2050%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    53 mins             ███████████████░░░░░░░░░░   59.87 % 
+TeX                      27 mins             ████████░░░░░░░░░░░░░░░░░   30.59 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 29 mins (100.0%)
+
+✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 413,694 Input Tokens, 13,546 Output Tokens
+
+💵 $2.44 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 36 AI Prompts
+
+Grok                     1 lines             █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 441 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/08/2026 01:09:43 UTC
+ Last Updated on 13/08/2026 01:11:28 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
