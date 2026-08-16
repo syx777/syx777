@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    53 mins             ███████████████░░░░░░░░░░   59.87 % 
-TeX                      27 mins             ████████░░░░░░░░░░░░░░░░░   30.59 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Other                    53 mins             █████████████░░░░░░░░░░░░   50.24 % 
+TeX                      42 mins             ██████████░░░░░░░░░░░░░░░   39.42 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (100.0%)
+⏱ AI Coding Time: 1 hr 46 mins (100.0%)
 
 ✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -41,7 +41,7 @@ Text                     1 min               █░░░░░░░░░░�
 
 💵 $2.44 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 36 AI Prompts
+🧠 15 AI Sessions, 47 AI Prompts
 
 Grok                     1 lines             █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -49,13 +49,13 @@ Composer                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 441 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 361 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 00:42:33 UTC
+ Last Updated on 16/08/2026 00:45:18 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
