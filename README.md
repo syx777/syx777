@@ -23,39 +23,37 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    55 mins             ████████████░░░░░░░░░░░░░   47.26 % 
-TeX                      32 mins             ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Text                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Text                     20 mins             ██████████████████░░░░░░░   73.92 % 
+TeX                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (100.0%)
+⏱ AI Coding Time: 28 mins (100.0%)
 
-✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 815,753 Input Tokens, 359,008 Output Tokens
+🔤 402,059 Input Tokens, 345,462 Output Tokens
 
-💵 $9.58 Estimated AI Cost This Week
+💵 $7.14 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 69 AI Prompts
+🧠 21 AI Sessions, 38 AI Prompts
 
-Grok                     1 lines             █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 19,391 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 34,804 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 00:42:14 UTC
+ Last Updated on 20/08/2026 00:42:22 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
