@@ -15,47 +15,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-249%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Markdown                 6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-TeX                      5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Bash                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Other                    2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Markdown                 6 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Python                   6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+TeX                      5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Bash                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+TOML                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 44 mins (94.04%)
+⏱ AI Coding Time: 28 hrs 41 mins (94.03%)
 
-✍️ 14,048 lines written by AI, 602 lines written by hand (95.89% AI-written)
+✍️ 19,545 lines written by AI, 602 lines written by hand (97.01% AI-written)
 
-🔤 637,153,798 Input Tokens, 1,882,424 Output Tokens
+🔤 637,199,693 Input Tokens, 1,898,401 Output Tokens
 
-💵 $2592.15 Estimated AI Cost This Week
+💵 $2593.33 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 246 AI Prompts
+🧠 53 AI Sessions, 248 AI Prompts
 
-GPT                      10,983 lines        ███████████████████░░░░░░   75.66 % 
-Opus                     3,534 lines         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+GPT                      10,983 lines        ██████████████░░░░░░░░░░░   54.88 % 
+Opus                     9,031 lines         ███████████░░░░░░░░░░░░░░   45.12 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.89% of written lines came from AI
-📝 Concise Prompter — average 122 characters per prompt
+🤖 AI-Driven — 97.01% of written lines came from AI
+📝 Concise Prompter — average 129 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.24% of changed lines were hand-edited
+🚀 High AI Trust — 5.36% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/09/2026 02:09:02 UTC
+ Last Updated on 06/09/2026 02:04:21 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
