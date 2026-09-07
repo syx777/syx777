@@ -23,39 +23,39 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Python                   6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-TeX                      5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Bash                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-TOML                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Python                   6 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Markdown                 6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+TeX                      5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Bash                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 41 mins (94.03%)
+⏱ AI Coding Time: 27 hrs 24 mins (93.77%)
 
-✍️ 19,545 lines written by AI, 602 lines written by hand (97.01% AI-written)
+✍️ 19,124 lines written by AI, 602 lines written by hand (96.95% AI-written)
 
-🔤 637,199,693 Input Tokens, 1,898,401 Output Tokens
+🔤 623,800,740 Input Tokens, 1,820,597 Output Tokens
 
-💵 $2593.33 Estimated AI Cost This Week
+💵 $2538.17 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 248 AI Prompts
+🧠 45 AI Sessions, 226 AI Prompts
 
-GPT                      10,983 lines        ██████████████░░░░░░░░░░░   54.88 % 
-Opus                     9,031 lines         ███████████░░░░░░░░░░░░░░   45.12 % 
+GPT                      10,562 lines        █████████████░░░░░░░░░░░░   53.91 % 
+Opus                     9,031 lines         ████████████░░░░░░░░░░░░░   46.09 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.01% of written lines came from AI
-📝 Concise Prompter — average 129 characters per prompt
+🤖 AI-Driven — 96.95% of written lines came from AI
+📝 Concise Prompter — average 122 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.36% of changed lines were hand-edited
+🚀 High AI Trust — 5.46% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 02:04:21 UTC
+ Last Updated on 07/09/2026 02:01:48 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
