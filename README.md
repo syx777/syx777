@@ -23,37 +23,37 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 45 mins       ████████████████░░░░░░░░░   64.47 % 
-Other                    3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   7 hrs 27 mins       ████████████████████░░░░░   81.00 % 
+Other                    1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 53 mins (98.9%)
+⏱ AI Coding Time: 9 hrs 4 mins (98.51%)
 
-✍️ 10,042 lines written by AI, 18 lines written by hand (99.82% AI-written)
+✍️ 9,283 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 8,590,814 Input Tokens, 1,193,225 Output Tokens
+🔤 10,155,701 Input Tokens, 1,207,875 Output Tokens
 
-💵 $609.30 Estimated AI Cost This Week
+💵 $691.81 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 60 AI Prompts
+🧠 36 AI Sessions, 44 AI Prompts
 
-GPT                      10,042 lines        █████████████████████████   100.00 % 
+GPT                      9,283 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📝 Concise Prompter — average 114 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📝 Concise Prompter — average 94 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/10/2026 02:44:06 UTC
+ Last Updated on 21/10/2026 02:38:14 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
