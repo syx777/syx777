@@ -23,37 +23,37 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 27 mins       ████████████████████░░░░░   81.00 % 
-Other                    1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   8 hrs 25 mins       ████████████████░░░░░░░░░   65.43 % 
+Other                    1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 4 mins (98.51%)
+⏱ AI Coding Time: 12 hrs 44 mins (98.93%)
 
-✍️ 9,283 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 12,028 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,155,701 Input Tokens, 1,207,875 Output Tokens
+🔤 12,603,780 Input Tokens, 1,491,131 Output Tokens
 
-💵 $691.81 Estimated AI Cost This Week
+💵 $783.13 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 44 AI Prompts
+🧠 51 AI Sessions, 74 AI Prompts
 
-GPT                      9,283 lines         █████████████████████████   100.00 % 
+GPT                      12,028 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 94 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/10/2026 02:38:14 UTC
+ Last Updated on 22/10/2026 02:35:51 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
