@@ -23,37 +23,37 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 26 mins       ██████████████████░░░░░░░   70.79 % 
-Other                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Other                    1 hr 8 mins         ███████████░░░░░░░░░░░░░░   42.46 % 
+Markdown                 37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Python                   26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+SSH Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs (98.92%)
+⏱ AI Coding Time: 2 hrs 35 mins (96.34%)
 
-✍️ 9,353 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,089 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,570,470 Input Tokens, 1,115,298 Output Tokens
+🔤 4,059,399 Input Tokens, 221,698 Output Tokens
 
-💵 $551.56 Estimated AI Cost This Week
+💵 $132.72 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 39 AI Prompts
+🧠 16 AI Sessions, 31 AI Prompts
 
-GPT                      9,353 lines         █████████████████████████   100.00 % 
+GPT                      2,089 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 72 characters per prompt
+📝 Concise Prompter — average 64 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 02:26:19 UTC
+ Last Updated on 26/10/2026 02:25:49 UTC
 <!--END_SECTION:waka-->
 
 ![syx777's Github stats](https://github-readme-stats-syx777.vercel.app/api?username=syx777&show_icons=true&count_private=true)
